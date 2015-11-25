@@ -1,4 +1,5 @@
 build/
+events-json-2016
 *.data
 *.pyc
 *.txt

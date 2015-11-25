@@ -39,7 +39,7 @@ month = args['month']
 year_endings = args['year_endings']
 print 'Events should be for years ending in {}'.format(year_endings)
 
-year = 2015
+year = 2016 # leap year
 all_events = {}
 all_deaths = {} 
 all_births = {}
